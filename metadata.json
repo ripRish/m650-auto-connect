@@ -1,0 +1,8 @@
+{
+  "name": "logi m650",
+  "description": "M650 auto-connector",
+  "uuid": "m650@riskk.com",
+  "shell-version": [
+    "49.5"
+  ],
+"url": "https://github.com/ripRish/m650-auto-connect"}
